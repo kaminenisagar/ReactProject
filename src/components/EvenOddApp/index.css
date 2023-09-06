@@ -1,0 +1,130 @@
+.Dark-Mode {
+  color: #000000;
+  background-color: #ffffff;
+}
+.Subscribe-1 {
+  background-color: bisque;
+}
+.Subscribed-2 {
+  background-color: rosybrown;
+}
+.Light-Mode {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.welcome-heading {
+  color: #000000;
+  font-family: 'Bree serif';
+  font-weight: bold;
+  font-size: 35px;
+}
+.welcome-description {
+  color: #e68b15;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 25px;
+}
+.count-description {
+  color: grey;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 25px;
+}
+.Count-Number-heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 35px;
+}
+.count-letter {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 40px;
+  color: #000000;
+}
+.Login-heading {
+  color: #0000000;
+  font-family: 'serif';
+  font-weight: bold;
+  font-size: 35px;
+}
+.Light-Dark-heading {
+  font-family: 'cursive';
+  font-weight: bold;
+  font-size: 35px;
+}
+.welcome-paragraph {
+  color: darkblue;
+  font-family: 'Bree serif';
+  font-weight: 300;
+  font-size: 18px;
+}
+.subscribe-Button {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: 500;
+  background-color: #ffffff;
+  width: 16vh;
+  height: 6vh;
+  border-radius: 10px;
+  border: 1px solid red;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(195, 201, 201);
+  height: 100vh;
+  padding: 20px;
+}
+
+.even-number {
+  color: red;
+  font-family: 'Bree serif';
+  font-weight: bold;
+  font-size: 30px;
+}
+.first-container {
+  background-color: lightseagreen;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 20px;
+  height: 60vh;
+  border: 1px solid lightgrey;
+}
+.second-container {
+  background-color: lightslategray;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 20px;
+  height: 60vh;
+  border: 1px solid lightgrey;
+}
+.container {
+  padding: 20px;
+  border-radius: 20px;
+  text-align: center;
+  align-items: center;
+  border: 2px solid green;
+}
+.third-container {
+  background-color: lightsalmon;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 20px;
+  height: 60vh;
+  border: 1px solid lightgrey;
+}
+.fourth-container {
+  background-color: lightcoral;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 20px;
+  height: 60vh;
+  border: 1px solid lightgrey;
+}
